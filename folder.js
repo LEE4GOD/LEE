@@ -1,4 +1,4 @@
-/*
+
  var number1 = 2;
  var number2 = 4; 
 
@@ -17,7 +17,7 @@ var sum = 0;
 
  }
 
- console.log( "My sum is ", sum);*/
+ console.log( "My sum is ", sum);
 
 
 
